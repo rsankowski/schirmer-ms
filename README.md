@@ -1,2 +1,2 @@
-# velmeshev-ms
-microglia from the velmeshev et al paper
+# schirmer-ms
+microglia from the schirmer et al paper
